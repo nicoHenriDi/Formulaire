@@ -1,0 +1,15 @@
+#formulaire{
+    display:block;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#msg{
+    /*width: 750px;
+    height: 250px;
+    columns: 50;
+    row-gap: 50;*/
+}
+legend{
+    margin: 20px;
+    text-align: center;
+}
